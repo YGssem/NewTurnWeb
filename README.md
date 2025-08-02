@@ -1,50 +1,50 @@
-# ´ºÅÏÀ¥°³¹ß ¿¹Á¦ ÄÚµå, Module 1 ~ 32
-### (ÀÚ¹Ù Ã³À½ºÎÅÍ Å¬·¡½º±îÁö ¸ðµç ¿¹Á¦ ÄÚµå)
+# ë‰´í„´ì›¹ê°œë°œ ì˜ˆì œ ì½”ë“œ, Module 1 ~ 32
+### (ìžë°” ì²˜ìŒë¶€í„° í´ëž˜ìŠ¤ê¹Œì§€ ëª¨ë“  ì˜ˆì œ ì½”ë“œ)
 
 
-#### ¡Ø Æí¾ÈÇÑ ¸¶À½À¸·Î ½ÃÀÛÇÏ¼¼¿ä. ´Þ´Þ´Þ ¿Ü¿ìÁö ¾Ê¾Æµµ µË´Ï´Ù.
+#### â€» íŽ¸ì•ˆí•œ ë§ˆìŒìœ¼ë¡œ ì‹œìž‘í•˜ì„¸ìš”. ë‹¬ë‹¬ë‹¬ ì™¸ìš°ì§€ ì•Šì•„ë„ ë©ë‹ˆë‹¤.
 
 - Module 01 Hello World
-- Module 02 º¯¼ö
-- Module 03 µ¥ÀÌÅÍÅ¸ÀÔ
-- Module 04 Çü º¯È¯
-- Module 05 »ó¼ö¿Í ¸®ÅÍ·²
-- Module 06 ¿¬»êÀÚ(1)
-- Module 07 ¿¬»êÀÚ(2)
+- Module 02 ë³€ìˆ˜
+- Module 03 ë°ì´í„°íƒ€ìž…
+- Module 04 í˜• ë³€í™˜
+- Module 05 ìƒìˆ˜ì™€ ë¦¬í„°ëŸ´
+- Module 06 ì—°ì‚°ìž(1)
+- Module 07 ì—°ì‚°ìž(2)
 
-#### ¡Ø ¿©±â¼­ºÎÅÍ´Â ¸¹Àº ¿¬½ÀÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+#### â€» ì—¬ê¸°ì„œë¶€í„°ëŠ” ë§Žì€ ì—°ìŠµì´ í•„ìš”í•©ë‹ˆë‹¤.
 
-- Module 08 Á¶°Ç¹®
-- Module 09 ¹Ýº¹¹®
-- Module 10 ¹Ýº¹¹® ÀÀ¿ë
-- Module 11 ¹«ÇÑ¹Ýº¹¹®°ú break, continue
-- Module 12 ¼Ò¼ö(prime number)
-- Module 13 ÇÇº¸³ªÄ¡ ¼ö¿­
-- Module 14 ³­¼öÀÇ ¹ß»ý
-- Module 15 Scanner Å¬·¡½º
+- Module 08 ì¡°ê±´ë¬¸
+- Module 09 ë°˜ë³µë¬¸
+- Module 10 ë°˜ë³µë¬¸ ì‘ìš©
+- Module 11 ë¬´í•œë°˜ë³µë¬¸ê³¼ break, continue
+- Module 12 ì†Œìˆ˜(prime number)
+- Module 13 í”¼ë³´ë‚˜ì¹˜ ìˆ˜ì—´
+- Module 14 ë‚œìˆ˜ì˜ ë°œìƒ
+- Module 15 Scanner í´ëž˜ìŠ¤
 
-##### ¡Ø ¹è¿­Àº, ¹®¹ýÀ» Á¤È®ÇÏ°Ô ¾Ï±âÇÑ ÈÄ ÄÚµå¸¦ º¸¼¼¿ä. (¿©·¯ ¹ø ÃÄº¸½Ã´Â °Ô Á¦ÀÏ ÁÁ½À´Ï´Ù)
+#### â€» ë°°ì—´ì€, ë¬¸ë²•ì„ ì •í™•í•˜ê²Œ ì•”ê¸°í•œ í›„ ì½”ë“œë¥¼ ë³´ì„¸ìš”. (ì—¬ëŸ¬ ë²ˆ ì³ë³´ì‹œëŠ” ê²Œ ì œì¼ ì¢‹ìŠµë‹ˆë‹¤)
 
-- Module 16 ¹è¿­
-- Module 17 ¹è¿­ ¿¬½À
-- Module 18 2Â÷¿ø ¹è¿­
+- Module 16 ë°°ì—´
+- Module 17 ë°°ì—´ ì—°ìŠµ
+- Module 18 2ì°¨ì› ë°°ì—´
 
-##### ¡Ø ¿¬½ÀÀ» Á¤¸» ¸¹ÀÌ ÇÏ¼Å¾ß ÇÕ´Ï´Ù. 4°¡Áö À¯ÇüÀÇ ¸Þ¼­µå ÀÛ¼ºÀÌ ÀÚ¿¬½º·¯¿öÁú ¶§±îÁö.
+#### â€» ì—°ìŠµì„ ì •ë§ ë§Žì´ í•˜ì…”ì•¼ í•©ë‹ˆë‹¤. 4ê°€ì§€ ìœ í˜•ì˜ ë©”ì„œë“œ ìž‘ì„±ì´ ìžì—°ìŠ¤ëŸ¬ì›Œì§ˆ ë•Œê¹Œì§€.
 
-- Module 19 ¸Þ¼­µåÀÇ Á¤ÀÇ ¹× È£Ãâ
-- Module 20 ¸Þ¼­µå ¿¬½À
-- Module 21 ¸Þ¼­µåÀÇ Àç±ÍÈ£Ãâ
-- Module 22 Áö¿ªº¯¼öÀÇ ÀÌÇØ
-- Module 23 ¸Þ¼­µå ¿À¹ö·Îµù
+- Module 19 ë©”ì„œë“œì˜ ì •ì˜ ë° í˜¸ì¶œ
+- Module 20 ë©”ì„œë“œ ì—°ìŠµ
+- Module 21 ë©”ì„œë“œì˜ ìž¬ê·€í˜¸ì¶œ
+- Module 22 ì§€ì—­ë³€ìˆ˜ì˜ ì´í•´
+- Module 23 ë©”ì„œë“œ ì˜¤ë²„ë¡œë”©
 
-#### ¡Ø Å¬·¡½º´Â, ¸ðµç ¼³¸í ¹®ÀåÀÌ ±â¾ï³¯ Á¤µµ·Î ÁýÁßÇØ¼­ °øºÎÇÏ¼¼¿ä. ¸¹Àº ½Ã°£°ú ³ë·ÂÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+#### â€» í´ëž˜ìŠ¤ëŠ”, ëª¨ë“  ì„¤ëª… ë¬¸ìž¥ì´ ê¸°ì–µë‚  ì •ë„ë¡œ ì§‘ì¤‘í•´ì„œ ê³µë¶€í•˜ì„¸ìš”. ë§Žì€ ì‹œê°„ê³¼ ë…¸ë ¥ì´ í•„ìš”í•©ë‹ˆë‹¤.
 
-- Module 24 Å¬·¡½ºÀÇ Á¤ÀÇ¿Í °´Ã¼ÀÇ »ý¼º
-- Module 25 Å¬·¡½º ±âº» ¿¬½À
-- Module 26 »ý¼ºÀÚ
-- Module 27 ArrayList ¼Ò°³
-- Module 28 ÀÎ½ºÅÏ½º¸â¹ö¿Í Å¬·¡½º¸â¹ö
-- Module 29 Å¬·¡½º »ó¼Ó ±âº»
-- Module 30 ¸Þ¼­µå ¿À¹ö¶óÀÌµù
-- Module 31 Å¬·¡½º »ó¼Ó°ú »ý¼ºÀÚ
-- Module 32 ´ÙÇü¼º°ú ÂüÁ¶º¯¼ö
+- Module 24 í´ëž˜ìŠ¤ì˜ ì •ì˜ì™€ ê°ì²´ì˜ ìƒì„±
+- Module 25 í´ëž˜ìŠ¤ ê¸°ë³¸ ì—°ìŠµ
+- Module 26 ìƒì„±ìž
+- Module 27 ArrayList ì†Œê°œ
+- Module 28 ì¸ìŠ¤í„´ìŠ¤ë©¤ë²„ì™€ í´ëž˜ìŠ¤ë©¤ë²„
+- Module 29 í´ëž˜ìŠ¤ ìƒì† ê¸°ë³¸
+- Module 30 ë©”ì„œë“œ ì˜¤ë²„ë¼ì´ë”©
+- Module 31 í´ëž˜ìŠ¤ ìƒì†ê³¼ ìƒì„±ìž
+- Module 32 ë‹¤í˜•ì„±ê³¼ ì°¸ì¡°ë³€ìˆ˜
