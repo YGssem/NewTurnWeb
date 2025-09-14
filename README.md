@@ -37,15 +37,17 @@
 
 #### ※ 클래스는, 모든 설명 문장이 기억날 정도로 집중해서 공부하세요. 많은 시간과 노력이 필요합니다.
 
-- Module 24 클래스의 정의와 객체의 생성
-- Module 25 클래스 기본 연습
-- Module 26 생성자
-- Module 27 ArrayList 소개
-- Module 28 인스턴스멤버와 클래스멤버
-- Module 29 클래스 상속 기본
-- Module 30 메서드 오버라이딩
-- Module 31 클래스 상속과 생성자
-- Module 32 다형성과 참조변수
+- Module 24 클래스의 정의와 객체의 생성 [강의 바로보기](https://www.youtube.com/watch?v=k0xZxffhvAg)
+- Module 25 클래스 기본 연습 [강의 바로보기](https://www.youtube.com/watch?v=Sxh5gC6BQh0) / [연습문제해설 바로보기](https://www.youtube.com/watch?v=j5ssE-maSco)
+- Module 26 생성자 [강의 바로보기](https://www.youtube.com/watch?v=Zwy8T05jbjI) / [연습문제해설 바로보기](https://www.youtube.com/watch?v=o9nOvZLTWwg)
+- Module 27 ArrayList 소개 [강의 바로보기](https://www.youtube.com/watch?v=EIfxy4d79yw)
+- Module 28 인스턴스멤버와 클래스멤버 [강의 바로보기](https://www.youtube.com/watch?v=1rW-cCpjipw) / [연습문제해설 바로보기](https://www.youtube.com/watch?v=Uyi0lyIL09s)
+- Module 29 클래스 상속 기본 [강의 바로보기](https://www.youtube.com/watch?v=qATnqvmMto4) / [연습문제해설 바로보기](https://www.youtube.com/watch?v=vEje5IlO4js)
+- Module 30 메서드 오버라이딩 [강의 바로보기](https://www.youtube.com/watch?v=Zu1VPLRs--c)
+- Module 31 클래스 상속과 생성자 [강의 바로보기](https://www.youtube.com/watch?v=QhQWREEMEK8)
+- Module 32 다형성과 참조변수 [강의 바로보기](https://www.youtube.com/watch?v=NrNdOVfuMsM)
+
+- [Module 01-32 요약 강의 바로보기](https://www.youtube.com/watch?v=RNF_aXsj21s)
 
 #### ※ 여기서부터는 쉽게 공부하세요.
 
