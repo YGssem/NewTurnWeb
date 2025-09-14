@@ -1,4 +1,4 @@
-# 뉴턴웹개발 예제 코드, Module 1 ~ 33
+# 뉴턴웹개발 예제 코드, Module 1 ~ 34
 
 #### ※ 편안한 마음으로 시작하세요. 달달달 외우지 않아도 됩니다.
 
@@ -51,4 +51,5 @@
 
 #### ※ 여기서부터는 쉽게 공부하세요.
 
-- Module 33 오라클과 JDBC 시작하기 [강의 바로보기](https://www.youtube.com/watch?v=WLISf1gBTns)
+- Module 33 오라클과 JDBC 시작하기 [강의 바로보기](https://www.youtube.com/watch?v=WLISf1gBTns) / ...
+- Module 34 Object 클래스 [...]
