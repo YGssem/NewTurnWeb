@@ -49,4 +49,4 @@
 
 #### ※ 여기서부터는 쉽게 공부하세요.
 
-- Module 33 오라클과 JDBC 시작하기
+- Module 33 오라클과 JDBC 시작하기 [강의 바로보기](https://www.youtube.com/watch?v=WLISf1gBTns)
