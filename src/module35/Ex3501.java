@@ -1,3 +1,4 @@
+// (Ex3501.java) 접근제어자
 package module35;
 
 class A3 { 				// → 접근제어자가 없는 게 아니라, default 접근제어자가 적용된 것.

@@ -1,3 +1,4 @@
+// (Ex3504.java) final 키워드 정리.
 package module35;
 
 /*final*/ class A { // 주석#1

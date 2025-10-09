@@ -1,3 +1,4 @@
+// (Ex3502.java) 부모클래스의 private한 멤버에 접근이 가능할까.
 package module35;
 
 class A4 {

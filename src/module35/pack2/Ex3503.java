@@ -1,3 +1,4 @@
+// (Ex3503.java / A.java) [참고] protected 접근제어자
 package module35.pack2;
 
 import module35.pack1.A;
